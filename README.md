@@ -1,26 +1,90 @@
-<!--- 👋 Hi there, I’m @Nitinkeldee 👨‍💻 --->
-### Hi there, I’m @Nitinkeldee 👋
+<h1 align="center">Hi 👋, I'm Nitin Kelde</h1>
+<h3 align="center">Software Engineer | Product Engineer | Entrepreneur</h3>
 
-<!--- 👀 I’m passionate about front-end development 🌐 and C++ programming 💻. --->
-#### Interests:
-- I'm passionate about front-end development 🌐 and C++ programming 💻.
+<p align="center">
+I build scalable products, real-world platforms, and high-performance web applications.
+</p>
 
-<!--- 🌱 Currently, I'm on a journey of continuous learning 📚 to level up my front-end skills, and I'm diving deeper into the world of C++ 🚀. --->
-#### Learning Journey:
-- Currently, I'm on a journey of continuous learning 📚 to level up my front-end skills.
-- I'm also diving deeper into the world of C++ 🚀.
+<p align="center">
+<a href="https://github.com/NitinKeldee">GitHub</a> •
+<a href="https://leetcode.com/u/Nitinkelde/">LeetCode</a> •
+<a href="https://www.linkedin.com/in/nitinkelde/">LinkedIn</a>
+</p>
 
-<!--- 💞️ I’m eager to collaborate on open-source projects related to web development 🤝 and C++ programming. I'm open to working with like-minded individuals who share my enthusiasm. --->
-#### Collaboration:
-- I’m eager to collaborate on open-source projects related to web development 🤝 and C++ programming.
-- I'm open to working with like-minded individuals who share my enthusiasm.
+---
 
-<!--- 💼 I'm well-versed in a variety of programming languages, including ReactJS ⚛️, JavaScript 🚀, TypeScript 📝, and I've got experience with frameworks like jQuery 📦. Let's code together and make great things happen! 💪 --->
-#### Skills:
-- I'm well-versed in a variety of programming languages, including ReactJS ⚛️, JavaScript 🚀, TypeScript 📝.
-- I've got experience with frameworks like jQuery 📦. Let's code together and make great things happen! 💪
+## 🚀 About Me
 
-<!---
-Nitinkeldee/Nitinkeldee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 💼 Software Engineer with experience in **React, Node.js, Django, and SQL**
+- 🏢 Worked at **TCS**, building dashboards used by **10,000+ users**
+- 🧩 Solved **500+ LeetCode problems** with multiple badges
+- 🚀 Co-Founder of **Unisire** – a live EdTech platform used by 200+ students
+- ⚡ Founder of **Tasyai** – a talent & startup collaboration platform
+- 🎯 **Open to Full-time Software Engineering Roles (Immediate Joiner)**
+- 🤝 Open to **startup collaboration and product building**
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+- JavaScript | TypeScript | Python | C++
+
+**Frontend**
+- React.js | Redux | HTML | CSS | Tailwind CSS | SASS
+
+**Backend**
+- Node.js | Express.js | Django | REST APIs
+
+**Databases**
+- MongoDB | SQL | SQLite | Supabase
+
+**Core Fundamentals**
+- Data Structures & Algorithms  
+- OOP | DBMS | OS | System Design
+
+**Tools**
+- Git | GitHub | Jira | Notion | Trello | Google Workspace
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 Unisire
+Student-focused learning and career platform with structured roadmaps, resume references, and automation tools.  
+Tech: React, Tailwind, Django, SQL, REST APIs
+
+### 🔹 Jobify
+Full-stack job tracking system to manage applications and opportunities.  
+Tech: MERN Stack, Redux
+
+### 🔹 Chrome Productivity Extensions
+Custom browser extensions to automate repetitive workflows and improve efficiency.
+
+---
+
+## 📊 Coding Profile
+
+- 🧠 **500+ LeetCode Problems Solved**
+- 🏆 14+ Badges
+- 📈 Active participant in coding contests
+
+LeetCode: https://leetcode.com/u/Nitinkelde/
+
+---
+
+## 🌐 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/nitinkelde/
+- 💻 GitHub: https://github.com/NitinKeldee
+- 📧 Email: nitinparjapat02@gmail.com
+
+---
+
+## ⚡ Current Focus
+
+> Building scalable systems, contributing to impactful products, and growing as a Software Engineer while continuing my startup journey.
+
+---
+
+⭐ Always open to opportunities, collaborations, and building something meaningful.
