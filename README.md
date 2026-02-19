@@ -7,6 +7,7 @@ I build scalable products, real-world platforms, and high-performance web applic
 
 <p align="center">
 <a href="https://github.com/NitinKeldee">GitHub</a> •
+<a href="https://github.com/unisiremainhub-gif">Unisire GitHub</a> •
 <a href="https://leetcode.com/u/Nitinkelde/">LeetCode</a> •
 <a href="https://www.linkedin.com/in/nitinkelde/">LinkedIn</a>
 </p>
@@ -20,8 +21,17 @@ I build scalable products, real-world platforms, and high-performance web applic
 - 🧩 Solved **500+ LeetCode problems** with multiple badges
 - 🚀 Co-Founder of **Unisire** – a live EdTech platform used by 200+ students
 - ⚡ Founder of **Tasyai** – a talent & startup collaboration platform
+- 🏗 Maintainer of **Unisire Organization Codebase**
 - 🎯 **Open to Full-time Software Engineering Roles (Immediate Joiner)**
 - 🤝 Open to **startup collaboration and product building**
+
+---
+
+## 🏢 Organizations
+
+- **Unisire Main Hub**  
+  Production repositories and core development for the Unisire platform  
+  🔗 https://github.com/unisiremainhub-gif
 
 ---
 
@@ -67,7 +77,7 @@ Custom browser extensions to automate repetitive workflows and improve efficienc
 
 - 🧠 **500+ LeetCode Problems Solved**
 - 🏆 14+ Badges
-- 📈 Active participant in coding contests
+- 📈 Active participant in coding contests  
 
 LeetCode: https://leetcode.com/u/Nitinkelde/
 
@@ -76,7 +86,8 @@ LeetCode: https://leetcode.com/u/Nitinkelde/
 ## 🌐 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/nitinkelde/
-- 💻 GitHub: https://github.com/NitinKeldee
+- 💻 Personal GitHub: https://github.com/NitinKeldee
+- 🏢 Unisire Org: https://github.com/unisiremainhub-gif
 - 📧 Email: nitinparjapat02@gmail.com
 
 ---
