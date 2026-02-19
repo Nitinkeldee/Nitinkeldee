@@ -87,8 +87,10 @@ LeetCode: https://leetcode.com/u/Nitinkelde/
 
 - 💼 LinkedIn: https://www.linkedin.com/in/nitinkelde/
 - 💻 Personal GitHub: https://github.com/NitinKeldee
-- 🏢 Unisire Org: https://github.com/unisiremainhub-gif
+- 🏢 Secondary GitHub (Unisire): https://github.com/unisiremainhub-gif
+- 🧠 LeetCode: https://leetcode.com/u/Nitinkelde/
 - 📧 Email: nitinparjapat02@gmail.com
+
 
 ---
 
